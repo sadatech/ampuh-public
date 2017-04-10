@@ -1,0 +1,21 @@
+table, th, td{
+	width: 100%;
+	border: 1px solid black;
+}
+
+td {
+    padding: 0 40px;
+    text-align: left;
+}
+
+tr {
+	border-spacing: 15px;
+}
+
+.one{
+	border: 0px;
+}
+
+.two{
+	background-color: #cccccc;
+}

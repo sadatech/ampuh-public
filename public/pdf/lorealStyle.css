@@ -1,0 +1,21 @@
+.one{
+	padding: 0px 100px 0px 0px;
+
+}
+
+.two{
+	border: 1px solid black;
+	width: 100px;
+	text-align: left;
+}
+
+tr {
+	border-spacing: 0px;
+}
+
+.three{
+	border: 1px solid black;
+	width: 100px;
+	text-align: center;
+	height: 100px;
+}

@@ -1,0 +1,9 @@
+.user-box{
+    border-radius: 4px;
+    background-color: #f6f7fa;
+    box-shadow: 0px 1px 7.5px 2.5px rgba(197, 214, 242, 0.21);
+    width: 100%;
+    margin: 0 auto;
+    z-index: 10;
+    overflow: hidden;
+}
